@@ -30,7 +30,6 @@ p {
 #grayButton {
     background: gray;
 }
-
 #whiteButton {
     background: white;
 }
@@ -39,4 +38,16 @@ p {
 }
 #yellowButton {
     background: yellow;
+}
+#redButton {
+    background: red;
+}
+#purpleButton {
+    background: purple;
+}
+#orangeButton {
+    background: orange;
+}
+#greenButton {
+    background: green;
 }
